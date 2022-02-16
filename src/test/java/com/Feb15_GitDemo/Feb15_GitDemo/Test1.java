@@ -7,5 +7,10 @@ public class Test1 {
 		{
 			System.out.println("Call M1() From Test1");
 		}
+		public void m11()
+		{
+			System.out.println("Call M11() From Test1");
+		}
+
 
 }
