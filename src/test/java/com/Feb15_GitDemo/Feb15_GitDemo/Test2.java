@@ -1,5 +1,5 @@
 package com.Feb15_GitDemo.Feb15_GitDemo;
-
+String name = "Aisha";
 public class Test2 {
 	
 			public void m2()
