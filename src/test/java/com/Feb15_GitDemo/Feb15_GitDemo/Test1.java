@@ -1,7 +1,7 @@
 package com.Feb15_GitDemo.Feb15_GitDemo;
 
 public class Test1 {
-		 String Name = "Suryawanshi"
+		 String Name = "Suryawanshi";
 		int i;
 		public void m1()
 		{
