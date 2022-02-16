@@ -5,7 +5,7 @@ public class Test1 {
 		int i;
 		public void m1()
 		{
-			System.out.println("M1()");
+			System.out.println("Call M1() From Test1");
 		}
 
 }
